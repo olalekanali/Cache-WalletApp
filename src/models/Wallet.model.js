@@ -19,7 +19,7 @@ const walletSchema = new mongoose.Schema({
     {
       type: {
         type: String,
-        enum: ['deposit', 'withdraw', 'transfer'],
+        enum: ['deposit', 'withdrawal', 'transfer'],
         required: true
       },
       amount: {
