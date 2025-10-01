@@ -1,6 +1,6 @@
-#Cache Wallet
 
-## 🔹 About Cache Wallet App
+
+# 🔹 Cache Wallet App
 
 The **Cache Wallet** is the core server-side application that powers the Cache Wallet, a secure and efficient digital wallet system. It is designed to handle user authentication, wallet creation, transactions, and balance management with a focus on reliability and scalability.
 
@@ -22,7 +22,3 @@ This backend provides a set of well-structured RESTful APIs that enable seamless
 * **Testing Tools**: Postman / Thunder Client for API testing
 
 This project demonstrates backend development skills including API design, database modeling, authentication, error handling, and secure data management.
-
----
-
-Do you want me to **make it portfolio-friendly** (client-focused, less technical) or **developer-focused** (more technical, showcasing your skills)?
