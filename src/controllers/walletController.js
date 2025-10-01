@@ -5,7 +5,6 @@ const User = require("../models/User.model");
 exports.createwallet = async (req, res) => {
   try {
     const { userId } = req.body;
-
     //Checking if user already exists
     const user = await User.findById(userId);
     if (!user) {
